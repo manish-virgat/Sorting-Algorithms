@@ -1,15 +1,4 @@
-# Sorting-Algorithms
+# Merge Sort
 
-## This repository contains the following sorting algorithms
-### 1. Bubble sort
-### 2. Insertion sort
-### 3. Merge sort
-### 4. Quick sort
-### 5. Selection sort
+Think of it as a recursive algorithm continuously splits the array in half until it cannot be further divided. This means that if the array becomes empty or has only one element left, the dividing will stop, i.e. it is the base case to stop the recursion. If the array has multiple elements, split the array into halves and recursively invoke the merge sort on each of the halves. Finally, when both halves are sorted, the merge operation is applied. Merge operation is the process of taking two smaller sorted arrays and combining them to eventually make a larger one.
 
-### These sorting algorithms are very inportant for any aspiring competetive programmer or those who just want to learn various Algorithms.
-
-#### If you like this work, you can support by adding codes for above algorithms in other languages as well.
-
-#### If this repository helped you in any way, kindly leave a star ;)
-##### Coded along with a coffee by Manish Virgat
