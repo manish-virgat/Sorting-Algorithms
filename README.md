@@ -7,7 +7,7 @@
 ### 4. Quick sort
 ### 5. Selection sort
 
-### These sorting algorithms are very inportant for any aspiring competetive programmer or those who just want to learn various Algorithms.
+### These sorting algorithms are very important for any aspiring competetive programmer or those who just want to learn various Algorithms.
 
 #### If you like this work, you can support by adding codes for above algorithms in other languages as well.
 
